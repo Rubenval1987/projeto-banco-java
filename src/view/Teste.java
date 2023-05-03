@@ -22,10 +22,6 @@ public class Teste {
 				Utils.stringParaData("23/02/1978")
 				);
 		
-//		System.out.println(felicity);
-//		System.out.println();
-//		System.out.println(angelina);
-		
 		Conta c101 = new Conta(felicity);
 		Conta c102 = new Conta(angelina);
 		
